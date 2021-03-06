@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T10:01:06.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="mO_4WJxkyEmo4-9KXJjb" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T10:10:54.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="CIBnWguCBkzCzwb6ETGG" version="14.4.4" type="github">
   <diagram id="5NGgrfY79Ag0wGYLFPvY" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NhNGR2v7om8BQXgXqzxG-47" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="160" y="30" width="550" height="550" as="geometry" />
+          <mxGeometry x="160" y="860" width="550" height="550" as="geometry" />
         </mxCell>
         <mxCell id="NhNGR2v7om8BQXgXqzxG-2" value="&lt;h2&gt;Tamu&lt;/h2&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="70" height="110" as="geometry" />
@@ -129,12 +129,13 @@
             <mxPoint x="479.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhNGR2v7om8BQXgXqzxG-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpSize=6;entryX=1;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="430" as="targetPoint" />
-            <mxPoint x="775" y="590" as="sourcePoint" />
+            <mxPoint x="370" y="523" as="targetPoint" />
+            <mxPoint x="410" y="523" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="775" y="430" />
+              <mxPoint x="399" y="523" />
+              <mxPoint x="399" y="523" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,6 +163,17 @@
             <mxPoint x="775" y="330" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="775" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="437.75" as="targetPoint" />
+            <mxPoint x="775" y="590" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="775" y="522.75" />
+              <mxPoint x="400" y="522.75" />
+              <mxPoint x="400" y="437.75" />
             </Array>
           </mxGeometry>
         </mxCell>
