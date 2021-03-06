@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T10:26:06.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="-bwzFQi8_-0YHXLxqxpk" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T10:28:15.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="4EH5fTeTqutYGVNEAc8i" version="14.4.4" type="github">
   <diagram id="5NGgrfY79Ag0wGYLFPvY" name="Page-1">
-    <mxGraphModel dx="723" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,19 +202,19 @@
             <mxPoint x="1160" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhNGR2v7om8BQXgXqzxG-511" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-511" value="Halaman&lt;br&gt;Dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NhNGR2v7om8BQXgXqzxG-512" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-512" value="Halaman&lt;br&gt;Data Reservasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NhNGR2v7om8BQXgXqzxG-513" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-513" value="Halaman &lt;br&gt;Data Tipe Kamar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NhNGR2v7om8BQXgXqzxG-514" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-514" value="Halaman&lt;br&gt;Laporan Reservasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="830" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NhNGR2v7om8BQXgXqzxG-515" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-515" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NhNGR2v7om8BQXgXqzxG-518">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="730" as="sourcePoint" />
             <mxPoint x="1160" y="520" as="targetPoint" />
@@ -226,8 +226,11 @@
             <mxPoint x="1160" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NhNGR2v7om8BQXgXqzxG-517" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-517" value="Halaman&lt;br&gt;Profile Admin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NhNGR2v7om8BQXgXqzxG-518" value="Halaman&lt;br&gt;Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="470" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
